@@ -1,0 +1,41 @@
+class First {
+  public static void main(String[] arguments) {
+    System.out.println("Let's do something using Java technology.");
+  }
+}
+
+
+class second class {
+  public static void main(String[] arguments) {
+    System.out.println("Let's do something using Java technology.");
+  }
+}
+
+class third class {
+  public static void main(String[] arguments) {
+    System.out.println("Let's do something using Java technology.");
+  }
+}
+
+public class AddTwoNumbers {
+
+   public static void main(String[] args) {
+        
+      int num1 = 10, num2 = 5, sum;                                      
+      sum = num1 + num2;                                                          
+
+      System.out.println("Sum of these numbers: "+sum);
+   }
+}
+
+public class Demo {
+    public static void main(String[] args) {
+
+       int num = 10, count, total = 0;
+
+       for(count = 1; count <= num; count++){
+           total = total + count;
+       }
+
+       System.out.println("Sum of first 10 natural numbers is: "+total);
+    }
